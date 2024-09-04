@@ -1,0 +1,7 @@
+.DS_Store
+.git
+.gitattributes
+.Rhistory
+.RData
+.Rproj.user
+CleaningData.Rproj
